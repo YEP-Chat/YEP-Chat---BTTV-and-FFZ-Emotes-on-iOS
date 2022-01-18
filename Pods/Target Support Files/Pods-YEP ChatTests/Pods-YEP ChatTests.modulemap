@@ -1,0 +1,6 @@
+framework module Pods_YEP_ChatTests {
+  umbrella header "Pods-YEP ChatTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

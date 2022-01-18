@@ -1,0 +1,85 @@
+PODS:
+  - Alamofire (5.5.0)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - BSText (1.1.2):
+    - YYImage
+  - GCDWebServer (3.5.4):
+    - GCDWebServer/Core (= 3.5.4)
+  - GCDWebServer/Core (3.5.4)
+  - Gifu (3.3.1)
+  - Kingfisher (7.1.2)
+  - netfox (1.20.0)
+  - SDWebImage (5.12.2):
+    - SDWebImage/Core (= 5.12.2)
+  - SDWebImage/Core (5.12.2)
+  - SDWebImageYYPlugin (0.7.0):
+    - SDWebImage/Core (~> 5.10)
+    - SDWebImageYYPlugin/YYCache (= 0.7.0)
+    - SDWebImageYYPlugin/YYImage (= 0.7.0)
+  - SDWebImageYYPlugin/YYCache (0.7.0):
+    - SDWebImage/Core (~> 5.10)
+    - YYCache
+  - SDWebImageYYPlugin/YYImage (0.7.0):
+    - SDWebImage/Core (~> 5.10)
+    - YYImage/Core
+  - Starscream (4.0.4)
+  - SwiftyGif (5.4.2)
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage (~> 4.1)
+  - BSText
+  - GCDWebServer (~> 3.0)
+  - Gifu
+  - Kingfisher
+  - netfox
+  - SDWebImage (~> 5.0)
+  - SDWebImageYYPlugin
+  - Starscream
+  - SwiftyGif
+  - YYWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - BSText
+    - GCDWebServer
+    - Gifu
+    - Kingfisher
+    - netfox
+    - SDWebImage
+    - SDWebImageYYPlugin
+    - Starscream
+    - SwiftyGif
+    - YYCache
+    - YYImage
+    - YYWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  BSText: 70f0da93875c5f1dd6ab9e27fc22b1e50a41b66c
+  GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
+  Gifu: 416d4e38c4c2fed012f019e0a1d3ffcb58e5b842
+  Kingfisher: 44ed6a8504763f27bab46163adfac83f5deb240c
+  netfox: 6b5c9724304b0cd99ca8515ac732a9f710e4ea5f
+  SDWebImage: 240e5c12b592fb1268c1d03b8c90d90e8c2ffe82
+  SDWebImageYYPlugin: 91d664f814860c27bd4298b32d961f05d342a041
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SwiftyGif: dec758a9dd3d278e5a855dbf279bf062c923c387
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+
+PODFILE CHECKSUM: f1a2be386ba38df98c36e8e06c63ba3b0d93d23b
+
+COCOAPODS: 1.11.2

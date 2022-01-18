@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<script type="text/javascript">
+    if (window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.getID) {
+            window.webkit.messageHandlers.getID.postMessage({
+                "message": document.location.hash
+            });
+        };
+</script>
